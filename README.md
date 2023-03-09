@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hakancosgunaras
-- 👀 I’m interested in Embedded Systems, web developing
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Embedded Systems Software and Web Developing
+- 🌱 I’m currently learning javascript and C++
+- 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me hakancosgunaras@gmail.com
 
 <!---
